@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>CSCE 190: Conner Warr</title>
-  </head>
-  <body>
-    <h1>Conner Warr</h1>
-  </body>
-</html>
+
